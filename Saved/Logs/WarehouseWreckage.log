@@ -1938,3 +1938,652 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.03-21.03.38:223][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.02.03-21.03.38:253][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2024.02.03-21.03.38:326][813]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.03-21.07.31:901][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.03-21.07.31:920][610]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006954 seconds
+[2024.02.03-21.07.31:934][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto1
+[2024.02.03-21.07.31:934][610]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/warehouseWreckage_Auto1CBD08B634E5E5208CEBCC89E1C78215A.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto1.umap'
+[2024.02.03-21.07.31:937][610]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto1.umap is in the /Temp path, will not scan.
+[2024.02.03-21.07.31:937][610]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto1 is in the /Temp path, will not scan.
+[2024.02.03-21.07.31:937][610]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto1 is in the /Temp path, will not scan.
+[2024.02.03-21.07.31:940][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/6/J0/LV8J0OHZJBLK484BO1EOTS_Auto1
+[2024.02.03-21.07.31:940][610]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/LV8J0OHZJBLK484BO1EOTS_Auto1DD66B20E44376960527E95B844B5F369.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/6/J0/LV8J0OHZJBLK484BO1EOTS_Auto1.uasset'
+[2024.02.03-21.07.31:948][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WarehouseWreckage/warehouseWreckage' took 0.059
+[2024.02.03-21.07.31:948][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2024.02.03-21.11.23:856][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.03-21.11.24:454][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.03-21.11.26:407][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.03-21.12.30:967][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.12.30:972][  2]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.12.30:972][  2]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.12.30:973][  2]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.12.30:973][  2]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.12.30:975][  2]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 2 ms (total: 37 ms)
+[2024.02.03-21.12.30:975][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.12.30:975][  2]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:12:30 AM)
+[2024.02.03-21.12.30:998][  2]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2024.02.03-21.12.31:000][  2]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.02.03-21.12.31:010][  3]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.12.31:014][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003975s)
+[2024.02.03-21.12.31:014][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.004022s)
+[2024.02.03-21.12.31:024][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.03-21.12.31:028][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.12.31:028][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.12.31:028][  3]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.12.31:029][  3]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.12.31:029][  3]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.12.31:029][  3]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.12.31:029][  3]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.12.31:029][  3]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.12.31:030][  3]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 505 ms)
+[2024.02.03-21.12.31:030][  3]LogPlayLevel: PIE: World Init took: (0.002233s)
+[2024.02.03-21.12.31:030][  3]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.12.31:030][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.12.31:030][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.12.31:030][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.12.31:030][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.12.31:030][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.12.31:032][  3]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.12.31:170][  3]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.12.31:170][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.12.31:170][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.12.31:170][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.12.31:172][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.02.03-21.12.31:172][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.02.03-21.12.31:173][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.02.03-21.12.31:173][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.02.03-21.12.31:173][  3]LogInit: FAudioDevice initialized with ID 11.
+[2024.02.03-21.12.31:173][  3]LogAudio: Display: Audio Device (ID: 11) registered with world 'warehouseWreckage'.
+[2024.02.03-21.12.31:173][  3]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.03-21.12.31:175][  3]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.12.31:176][  3]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.12.31
+[2024.02.03-21.12.31:176][  3]LogWorld: Bringing up level for play took: 0.000688
+[2024.02.03-21.12.31:177][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.12.31:177][  3]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.02.03-21.12.31:180][  3]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.12.31:383][  3]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.12.31:383][  3]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.12.31:383][  3]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.12.31:383][  3]PIE: Server logged in
+[2024.02.03-21.12.31:383][  3]PIE: Play in editor total start time 0.411 seconds.
+[2024.02.03-21.12.34:288][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.12.34:288][169]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.12.34:300][169]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.12.34:300][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.12.34:300][169]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.12.34:303][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.12.34:306][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.12.34:322][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.12.34:322][169]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.02.03-21.12.34:322][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.03-21.12.34:324][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.02.03-21.12.34:354][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.03-21.12.34:384][170]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.02.03-21.12.51:881][190]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.12.51:886][190]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.12.51:887][190]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.12.51:888][190]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.12.51:888][190]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.12.51:890][190]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 3 ms (total: 40 ms)
+[2024.02.03-21.12.51:890][190]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.12.51:890][190]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:12:51 AM)
+[2024.02.03-21.12.51:891][190]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2024.02.03-21.12.51:892][190]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.03-21.12.51:901][191]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.12.51:904][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2024.02.03-21.12.51:904][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.003582s)
+[2024.02.03-21.12.51:915][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.02.03-21.12.51:917][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.12.51:917][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.12.51:917][191]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.12.51:918][191]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.12.51:918][191]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.12.51:918][191]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.12.51:918][191]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.12.51:919][191]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.12.51:919][191]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 507 ms)
+[2024.02.03-21.12.51:919][191]LogPlayLevel: PIE: World Init took: (0.002435s)
+[2024.02.03-21.12.51:919][191]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.12.51:919][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.12.51:919][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.12.51:920][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.12.51:920][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.12.51:920][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.12.51:921][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.12.52:052][191]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.12.52:053][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.12.52:053][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.12.52:053][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.12.52:054][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.03-21.12.52:054][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.03-21.12.52:055][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.03-21.12.52:055][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.03-21.12.52:055][191]LogInit: FAudioDevice initialized with ID 12.
+[2024.02.03-21.12.52:055][191]LogAudio: Display: Audio Device (ID: 12) registered with world 'warehouseWreckage'.
+[2024.02.03-21.12.52:055][191]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.03-21.12.52:059][191]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.12.52:059][191]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.12.52
+[2024.02.03-21.12.52:060][191]LogWorld: Bringing up level for play took: 0.000633
+[2024.02.03-21.12.52:060][191]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.12.52:060][191]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.12.52:063][191]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.12.52:270][191]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.12.52:270][191]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.12.52:270][191]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.12.52:270][191]PIE: Server logged in
+[2024.02.03-21.12.52:271][191]PIE: Play in editor total start time 0.384 seconds.
+[2024.02.03-21.12.58:179][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.12.58:179][536]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.12.58:189][536]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.12.58:189][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.12.58:189][536]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.12.58:192][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.12.58:196][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.12.58:211][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.12.58:211][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.02.03-21.12.58:211][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.03-21.12.58:214][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.03-21.12.58:244][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.03-21.12.58:275][537]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.03-21.13.09:561][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.13.09:566][211]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.13.09:566][211]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.13.09:572][211]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.13.09:572][211]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.13.09:574][211]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 9 ms (total: 49 ms)
+[2024.02.03-21.13.09:574][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.13.09:574][211]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:13:09 AM)
+[2024.02.03-21.13.09:574][211]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2024.02.03-21.13.09:576][211]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.03-21.13.09:586][212]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.13.09:590][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003759s)
+[2024.02.03-21.13.09:590][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.003798s)
+[2024.02.03-21.13.09:601][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.03-21.13.09:603][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.13.09:603][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.13.09:603][212]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.13.09:604][212]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.13.09:604][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.13.09:604][212]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.13.09:604][212]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.13.09:605][212]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.13.09:605][212]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 508 ms)
+[2024.02.03-21.13.09:605][212]LogPlayLevel: PIE: World Init took: (0.002320s)
+[2024.02.03-21.13.09:605][212]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.13.09:605][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.13.09:605][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.13.09:606][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.13.09:606][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.13.09:606][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.13.09:607][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.13.09:744][212]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.13.09:745][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.13.09:745][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.13.09:745][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.13.09:745][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.03-21.13.09:745][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.03-21.13.09:747][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.03-21.13.09:747][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.03-21.13.09:747][212]LogInit: FAudioDevice initialized with ID 13.
+[2024.02.03-21.13.09:747][212]LogAudio: Display: Audio Device (ID: 13) registered with world 'warehouseWreckage'.
+[2024.02.03-21.13.09:747][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.03-21.13.09:750][212]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.13.09:751][212]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.13.09
+[2024.02.03-21.13.09:751][212]LogWorld: Bringing up level for play took: 0.000728
+[2024.02.03-21.13.09:752][212]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.13.09:752][212]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.13.09:754][212]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.13.09:953][212]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.13.09:953][212]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.13.09:953][212]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.13.09:953][212]PIE: Server logged in
+[2024.02.03-21.13.09:954][212]PIE: Play in editor total start time 0.389 seconds.
+[2024.02.03-21.13.12:258][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.13.12:258][343]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.13.12:269][343]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.13.12:269][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.13.12:269][343]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.13.12:272][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.13.12:276][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.13.12:291][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.13.12:291][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.02.03-21.13.12:291][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.03-21.13.12:293][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.03-21.13.12:323][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.02.03-21.13.12:352][344]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.03-21.13.37:351][833]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.03-21.13.43:123][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.02.03-21.13.43:123][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.02.03-21.13.43:127][164]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.StaticMeshActor_UAID_7C4D8F9BCB82C4D501_2105111583
+[2024.02.03-21.13.43:128][164]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.StaticMeshActor_UAID_7C4D8F9BCB82C4D501_2105111583
+[2024.02.03-21.14.33:916][140]Cmd: TRANSACTION UNDO
+[2024.02.03-21.14.33:916][140]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.03-21.14.34:379][155]Cmd: TRANSACTION UNDO
+[2024.02.03-21.14.34:379][155]LogEditorTransaction: Undo Move Elements
+[2024.02.03-21.14.35:750][234]Cmd: TRANSACTION UNDO
+[2024.02.03-21.14.35:750][234]LogEditorTransaction: Undo Move Elements
+[2024.02.03-21.15.46:918][466]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.15.46:927][466]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.15.46:927][466]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.15.46:927][466]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.15.46:927][466]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.15.46:930][466]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 3 ms (total: 52 ms)
+[2024.02.03-21.15.46:930][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.15.46:930][466]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:15:46 AM)
+[2024.02.03-21.15.46:930][466]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2024.02.03-21.15.46:932][466]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.02.03-21.15.46:942][467]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.15.46:952][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009628s)
+[2024.02.03-21.15.46:952][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.009682s)
+[2024.02.03-21.15.46:964][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.02.03-21.15.46:966][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.15.46:966][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.15.46:967][467]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.15.46:967][467]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.15.46:967][467]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.15.46:967][467]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.15.46:967][467]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.15.46:969][467]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.15.46:969][467]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 509 ms)
+[2024.02.03-21.15.46:969][467]LogPlayLevel: PIE: World Init took: (0.002435s)
+[2024.02.03-21.15.46:969][467]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.15.46:969][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.15.46:969][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.15.46:969][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.15.46:969][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.15.46:969][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.15.46:971][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.15.47:102][467]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.15.47:102][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.15.47:102][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.15.47:102][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.15.47:103][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.03-21.15.47:103][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.03-21.15.47:104][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.03-21.15.47:104][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.03-21.15.47:104][467]LogInit: FAudioDevice initialized with ID 14.
+[2024.02.03-21.15.47:104][467]LogAudio: Display: Audio Device (ID: 14) registered with world 'warehouseWreckage'.
+[2024.02.03-21.15.47:104][467]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.03-21.15.47:107][467]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.15.47:108][467]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.15.47
+[2024.02.03-21.15.47:108][467]LogWorld: Bringing up level for play took: 0.000685
+[2024.02.03-21.15.47:108][467]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.15.47:108][467]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.15.47:115][467]LogStreaming: Display: FlushAsyncLoading(): 56 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.15.47:304][467]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.15.47:304][467]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.15.47:304][467]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.15.47:304][467]PIE: Server logged in
+[2024.02.03-21.15.47:305][467]PIE: Play in editor total start time 0.378 seconds.
+[2024.02.03-21.15.49:689][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.15.49:689][601]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.15.49:699][601]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.15.49:699][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.15.49:699][601]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.15.49:702][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.15.49:706][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.15.49:719][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.03-21.15.49:720][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.02.03-21.15.49:720][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.03-21.15.49:722][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.03-21.15.49:742][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.15.49:752][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.02.03-21.15.49:797][602]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: ================================================
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: RAM used: 81.02 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Average time worker was idle: 1372.84 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 1.13 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Job life time (pending + execution): average 0.82 s, max 1.18
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Shader code size: average 43.283 KiB, min 32.684 KiB, max 49.703 KiB
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.59 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Average processing rate: 1.89 jobs/sec
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Total thread time: 1.562 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Total thread preprocess time: 0.076 s
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Percentage time preprocessing: 4.90%
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Effective parallelization: 0.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.02.03-21.16.02:192][336]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.02.03-21.16.02:193][336]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.02.03-21.16.02:193][336]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 55.27% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2024.02.03-21.16.02:193][336]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 37.87% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2024.02.03-21.16.02:193][336]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.86% of total time (compiled    1 times, average 0.11 sec, max 0.11 sec, min 0.11 sec)
+[2024.02.03-21.16.02:193][336]LogShaderCompilers: Display: ================================================
+[2024.02.03-21.17.03:149][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.17.03:155][828]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.17.03:155][828]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.17.03:156][828]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.17.03:156][828]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.17.03:158][828]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 2 ms (total: 55 ms)
+[2024.02.03-21.17.03:158][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.17.03:158][828]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:17:03 AM)
+[2024.02.03-21.17.03:158][828]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2024.02.03-21.17.03:160][828]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.03-21.17.03:172][829]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.17.03:182][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009937s)
+[2024.02.03-21.17.03:182][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.009985s)
+[2024.02.03-21.17.03:193][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.02.03-21.17.03:198][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.17.03:198][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.17.03:198][829]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.17.03:199][829]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.17.03:199][829]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.17.03:199][829]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.17.03:199][829]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.17.03:200][829]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.17.03:200][829]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 510 ms)
+[2024.02.03-21.17.03:200][829]LogPlayLevel: PIE: World Init took: (0.002160s)
+[2024.02.03-21.17.03:200][829]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.17.03:200][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.17.03:200][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.17.03:200][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.17.03:200][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.17.03:200][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.17.03:202][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.17.03:332][829]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.17.03:332][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.17.03:332][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.17.03:332][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.17.03:333][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.03-21.17.03:333][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.03-21.17.03:334][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.03-21.17.03:334][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.03-21.17.03:334][829]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.03-21.17.03:334][829]LogAudio: Display: Audio Device (ID: 15) registered with world 'warehouseWreckage'.
+[2024.02.03-21.17.03:334][829]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.03-21.17.03:337][829]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.17.03:338][829]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.17.03
+[2024.02.03-21.17.03:338][829]LogWorld: Bringing up level for play took: 0.000896
+[2024.02.03-21.17.03:339][829]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.17.03:339][829]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.17.03:346][829]LogStreaming: Display: FlushAsyncLoading(): 56 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.17.03:541][829]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.17.03:541][829]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.17.03:541][829]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.17.03:541][829]PIE: Server logged in
+[2024.02.03-21.17.03:542][829]PIE: Play in editor total start time 0.387 seconds.
+[2024.02.03-21.17.06:359][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.17.06:359][991]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.17.06:369][991]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.17.06:369][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.17.06:369][991]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.17.06:372][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.17.06:377][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.17.06:394][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.17.06:394][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.03-21.17.06:394][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.03-21.17.06:396][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.03-21.17.06:426][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.03-21.17.06:472][992]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.03-21.17.20:883][844]Cmd: TRANSACTION UNDO
+[2024.02.03-21.17.20:883][844]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.03-21.17.22:471][920]Cmd: TRANSACTION UNDO
+[2024.02.03-21.17.22:471][920]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.03-21.17.23:014][951]Cmd: TRANSACTION UNDO
+[2024.02.03-21.17.23:014][951]LogEditorTransaction: Undo Set Location
+[2024.02.03-21.18.01:210][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.02.03-21.18.01:221][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto2
+[2024.02.03-21.18.01:221][887]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/warehouseWreckage_Auto228200521486F2AC48A33469CFE7DB56D.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto2.umap'
+[2024.02.03-21.18.01:221][887]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto2.umap is in the /Temp path, will not scan.
+[2024.02.03-21.18.01:221][887]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto2 is in the /Temp path, will not scan.
+[2024.02.03-21.18.01:221][887]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/WarehouseWreckage/warehouseWreckage_Auto2 is in the /Temp path, will not scan.
+[2024.02.03-21.18.01:224][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/0/1K/1NPOD44DL69SNFRQF198VB_Auto2
+[2024.02.03-21.18.01:224][887]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/1NPOD44DL69SNFRQF198VB_Auto2A40348B9409468092C728F9240EC2441.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/0/1K/1NPOD44DL69SNFRQF198VB_Auto2.uasset'
+[2024.02.03-21.18.01:225][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/6/J0/LV8J0OHZJBLK484BO1EOTS_Auto2
+[2024.02.03-21.18.01:226][887]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/LV8J0OHZJBLK484BO1EOTS_Auto211FB071F434D4148203AF484ED19C8F5.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/6/J0/LV8J0OHZJBLK484BO1EOTS_Auto2.uasset'
+[2024.02.03-21.18.01:229][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/9/86/A95BIH4B7XDRGF4JM1GM28_Auto2
+[2024.02.03-21.18.01:229][887]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/A95BIH4B7XDRGF4JM1GM28_Auto21C21688E43A7D77547592D9D251F977F.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/9/86/A95BIH4B7XDRGF4JM1GM28_Auto2.uasset'
+[2024.02.03-21.18.01:232][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/5/JN/YGMJA9H3G3C5N2GMZCOB4A_Auto2
+[2024.02.03-21.18.01:232][887]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/YGMJA9H3G3C5N2GMZCOB4A_Auto2A50E564042C615381EDFC891F4DF4CB3.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/5/JN/YGMJA9H3G3C5N2GMZCOB4A_Auto2.uasset'
+[2024.02.03-21.18.01:233][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WarehouseWreckage/warehouseWreckage' took 0.039
+[2024.02.03-21.18.01:233][887]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.02.03-21.21.22:926][629]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.21.22:932][629]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.21.22:932][629]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.21.22:933][629]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.21.22:933][629]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.21.22:935][629]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 3 ms (total: 58 ms)
+[2024.02.03-21.21.22:935][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.21.22:935][629]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:21:22 AM)
+[2024.02.03-21.21.22:935][629]LogPlayLevel: Display: Creating online subsystem for client :Context_19
+[2024.02.03-21.21.22:939][629]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.03-21.21.22:949][630]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.21.22:956][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007482s)
+[2024.02.03-21.21.22:957][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.007531s)
+[2024.02.03-21.21.22:968][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.03-21.21.22:969][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.21.22:969][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.21.22:970][630]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.21.22:970][630]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.21.22:970][630]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.21.22:970][630]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.21.22:970][630]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.21.22:971][630]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.21.22:971][630]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 511 ms)
+[2024.02.03-21.21.22:971][630]LogPlayLevel: PIE: World Init took: (0.002358s)
+[2024.02.03-21.21.22:971][630]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.21.22:971][630]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.21.22:972][630]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.21.22:972][630]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.21.22:972][630]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.21.22:972][630]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.21.22:974][630]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.21.23:106][630]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.21.23:106][630]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.21.23:106][630]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.21.23:106][630]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.21.23:107][630]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.03-21.21.23:107][630]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.03-21.21.23:109][630]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.03-21.21.23:109][630]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.03-21.21.23:109][630]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.03-21.21.23:109][630]LogAudio: Display: Audio Device (ID: 16) registered with world 'warehouseWreckage'.
+[2024.02.03-21.21.23:109][630]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.03-21.21.23:112][630]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.21.23:112][630]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.21.23
+[2024.02.03-21.21.23:112][630]LogWorld: Bringing up level for play took: 0.000739
+[2024.02.03-21.21.23:113][630]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.21.23:113][630]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.21.23:120][630]LogStreaming: Display: FlushAsyncLoading(): 56 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.21.23:299][630]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.21.23:299][630]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.21.23:299][630]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.21.23:299][630]PIE: Server logged in
+[2024.02.03-21.21.23:300][630]PIE: Play in editor total start time 0.368 seconds.
+[2024.02.03-21.21.36:260][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.21.36:260][400]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.21.36:270][400]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.21.36:270][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.21.36:270][400]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.21.36:273][400]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.21.36:277][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.21.36:291][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.21.36:291][400]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.03-21.21.36:291][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.03-21.21.36:293][400]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.03-21.21.36:323][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.02.03-21.21.36:362][401]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.03-21.23.14:453][849]LogSlate: Window 'Select Path' being destroyed
+[2024.02.03-21.23.15:273][849]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2024.02.03-21.23.15:327][849]LogActorComponent: UnregisterComponent: (/Game/BP_Projectile.Default__BP_Projectile_C:StaticMeshComponent0) Not registered. Aborting.
+[2024.02.03-21.23.15:344][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.03-21.23.15:381][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.02.03-21.23.15:381][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.23.15:381][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.23.15:682][849]LogViewport: Scene viewport resized to 982x643, mode Windowed.
+[2024.02.03-21.28.14:930][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.03-21.28.14:934][298]LogWorldPartition: Can't find class descriptor '/Game/BP_Projectile.BP_Projectile_C' for saving '/Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.BP_Projectile_C_UAID_7C4D8F9BCB82C5D501_1603591760'
+[2024.02.03-21.28.14:934][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/2/2N/GTH8KSUYXLSHKJBFIVMLAX_Auto3
+[2024.02.03-21.28.14:934][298]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/GTH8KSUYXLSHKJBFIVMLAX_Auto3E1E6768949C567D7B664478802DE2D7A.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/2/2N/GTH8KSUYXLSHKJBFIVMLAX_Auto3.uasset'
+[2024.02.03-21.28.14:935][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WarehouseWreckage/warehouseWreckage' took 0.018
+[2024.02.03-21.28.14:935][298]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.02.03-21.28.14:936][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Projectile] ([2] browsable assets)...
+[2024.02.03-21.28.14:936][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.28.15:097][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Projectile.BP_Projectile]
+[2024.02.03-21.28.15:098][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.28.15:165][298]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C]
+[2024.02.03-21.28.15:165][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Projectile]
+[2024.02.03-21.28.15:165][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/BP_Projectile_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.03-21.28.15:170][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Projectile_Auto3
+[2024.02.03-21.28.15:170][298]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/BP_Projectile_Auto30325DF194D9CECF22ED732A2229E44DA.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/BP_Projectile_Auto3.uasset'
+[2024.02.03-21.28.15:171][298]LogFileHelpers: Auto-saving content packages took 0.236
+[2024.02.03-21.37.01:891][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-21.37.01:955][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Github/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.02.03-21.37.01:958][537]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.02.03-21.37.01:958][537]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/BP_ProjectileC4282C284FB33A50AEAE76A6F7721418.tmp' to '../../../../../../Github/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.02.03-21.37.01:971][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms
+[2024.02.03-21.37.01:972][537]AssetCheck: New page: Asset Save: BP_Projectile
+[2024.02.03-21.37.01:972][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.02.03-21.37.03:587][633]LogSlate: Window 'BP_Projectile' being destroyed
+[2024.02.03-21.37.03:597][633]LogSlate: Window 'BP_Projectile' being destroyed
+[2024.02.03-21.37.03:602][633]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.37.03:602][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.37.25:227][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2024.02.03-21.37.25:227][629]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2024.02.03-21.37.25:229][629]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.BP_Projectile_C_0
+[2024.02.03-21.37.25:229][629]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.BP_Projectile_C_0
+[2024.02.03-21.37.27:060][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2024.02.03-21.37.27:060][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2024.02.03-21.37.27:062][738]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.BP_Projectile_C_UAID_7C4D8F9BCB82C6D501_1381563937
+[2024.02.03-21.37.27:062][738]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage:PersistentLevel.BP_Projectile_C_UAID_7C4D8F9BCB82C6D501_1381563937
+[2024.02.03-21.38.15:333][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.03-21.38.15:338][616]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/D/SJ/JK9HKZ1NZON4EMYZSD66DX_Auto4
+[2024.02.03-21.38.15:338][616]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/JK9HKZ1NZON4EMYZSD66DX_Auto4773946A34F2040A48F97DA9FEC6FA573.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/D/SJ/JK9HKZ1NZON4EMYZSD66DX_Auto4.uasset'
+[2024.02.03-21.38.15:339][616]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WarehouseWreckage/warehouseWreckage' took 0.020
+[2024.02.03-21.38.15:339][616]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.02.03-21.39.16:146][ 70]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.02.03-21.39.16:146][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.39.16:146][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.43.09:540][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.03-21.43.09:644][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../../Github/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.02.03-21.43.09:647][304]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.02.03-21.43.09:648][304]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/BP_ProjectileA43D2FA242786542BE6642998B4BE0DF.tmp' to '../../../../../../Github/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.02.03-21.43.09:655][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 196 ms)
+[2024.02.03-21.43.09:658][304]AssetCheck: New page: Asset Save: BP_Projectile
+[2024.02.03-21.43.09:658][304]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.02.03-21.43.11:898][438]LogSlate: Window 'BP_Projectile' being destroyed
+[2024.02.03-21.43.11:909][438]LogSlate: Window 'BP_Projectile' being destroyed
+[2024.02.03-21.43.11:911][438]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.43.11:911][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.43.13:206][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.03-21.43.13:213][512]LogContentBundle: [warehouseWreckage(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.03-21.43.13:214][512]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' started...
+[2024.02.03-21.43.13:214][512]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.Cube 
+[2024.02.03-21.43.13:214][512]MapCheck: Error: Level Script Blueprint references streamed actor /Game/WarehouseWreckage/warehouseWreckage.SM_Chair 
+[2024.02.03-21.43.13:216][512]LogWorldPartition: Display: GenerateStreaming for 'warehouseWreckage' took 3 ms (total: 61 ms)
+[2024.02.03-21.43.13:216][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.03-21.43.13:216][512]PIE: New page: PIE session: warehouseWreckage (Feb 3, 2024, 5:43:13 AM)
+[2024.02.03-21.43.13:239][512]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2024.02.03-21.43.13:241][512]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.02.03-21.43.13:252][513]LogPlayLevel: Creating play world package: /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.43.13:268][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015288s)
+[2024.02.03-21.43.13:268][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WarehouseWreckage/warehouseWreckage.warehouseWreckage to /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage (0.015335s)
+[2024.02.03-21.43.13:279][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.02.03-21.43.13:282][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.03-21.43.13:282][513]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.03-21.43.13:283][513]LogAIModule: Creating AISystem for world warehouseWreckage
+[2024.02.03-21.43.13:283][513]LogWorldPartition: ULevel::OnLevelLoaded(warehouseWreckage)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.03-21.43.13:283][513]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.03-21.43.13:283][513]LogWorldPartition: UWorldPartition::Initialize : World = warehouseWreckage, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.03-21.43.13:283][513]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.03-21.43.13:284][513]LogContentBundle: [warehouseWreckage(Standalone)] Creating new contrainer.
+[2024.02.03-21.43.13:284][513]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 512 ms)
+[2024.02.03-21.43.13:284][513]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2024.02.03-21.43.13:284][513]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.03-21.43.13:284][513]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.03-21.43.13:284][513]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.03-21.43.13:285][513]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.03-21.43.13:285][513]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.03-21.43.13:285][513]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.03-21.43.13:287][513]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.03-21.43.13:477][513]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2024.02.03-21.43.13:477][513]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.03-21.43.13:477][513]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.03-21.43.13:477][513]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.03-21.43.13:478][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.03-21.43.13:478][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.03-21.43.13:479][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.03-21.43.13:479][513]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.03-21.43.13:479][513]LogInit: FAudioDevice initialized with ID 17.
+[2024.02.03-21.43.13:479][513]LogAudio: Display: Audio Device (ID: 17) registered with world 'warehouseWreckage'.
+[2024.02.03-21.43.13:479][513]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.03-21.43.13:482][513]LogLoad: Game class is 'GameModeBase'
+[2024.02.03-21.43.13:483][513]LogWorld: Bringing World /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage.warehouseWreckage up for play (max tick rate 60) at 2024.02.03-13.43.13
+[2024.02.03-21.43.13:483][513]LogWorld: Bringing up level for play took: 0.000839
+[2024.02.03-21.43.13:484][513]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.03-21.43.13:484][513]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=0.000000 R=-0.000000
+[2024.02.03-21.43.13:495][513]LogStreaming: Display: FlushAsyncLoading(): 56 QueuedPackages, 0 AsyncPackages
+[2024.02.03-21.43.13:708][513]LogBlueprintUserMessages: [warehouseWreckage_C_7] Hello
+[2024.02.03-21.43.13:708][513]LogBlueprintUserMessages: [warehouseWreckage_C_7] 99.999992
+[2024.02.03-21.43.13:708][513]LogBlueprintUserMessages: [warehouseWreckage_C_7] 177.827927
+[2024.02.03-21.43.13:708][513]PIE: Server logged in
+[2024.02.03-21.43.13:709][513]PIE: Play in editor total start time 0.495 seconds.
+[2024.02.03-21.43.17:180][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.43.17:180][713]LogWorld: BeginTearingDown for /Game/WarehouseWreckage/UEDPIE_0_warehouseWreckage
+[2024.02.03-21.43.17:190][713]LogWorld: UWorld::CleanupWorld for warehouseWreckage, bSessionEnded=true, bCleanupResources=true
+[2024.02.03-21.43.17:190][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.43.17:190][713]LogContentBundle: [warehouseWreckage(Standalone)] Deleting container.
+[2024.02.03-21.43.17:194][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.03-21.43.17:198][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.03-21.43.17:211][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.03-21.43.17:211][713]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.03-21.43.17:211][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.03-21.43.17:213][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.03-21.43.17:233][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.03-21.43.17:242][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.02.03-21.43.17:295][714]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.02.03-21.48.19:668][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.03-21.48.19:672][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/D/SJ/JK9HKZ1NZON4EMYZSD66DX_Auto5
+[2024.02.03-21.48.19:672][690]LogSavePackage: Moving '../../../../../../Github/WarehouseWreckage/Saved/JK9HKZ1NZON4EMYZSD66DX_Auto57E08141C44284F050DB3CEA1D0CCABF0.tmp' to '../../../../../../Github/WarehouseWreckage/Saved/Autosaves/Game/__ExternalActors__/WarehouseWreckage/warehouseWreckage/D/SJ/JK9HKZ1NZON4EMYZSD66DX_Auto5.uasset'
+[2024.02.03-21.48.19:674][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WarehouseWreckage/warehouseWreckage' took 0.019
+[2024.02.03-21.48.19:674][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
